@@ -1,0 +1,3 @@
+HU89,Jared,holy club,jarediscool@mail.com,aloboi@mail.com
+EDA78,BI0S,cyber-security club,bi0stothewin@gmail.com,JustinYoo@gmail.com
+ETA56,ACM,All in one code club,acmwins@gmail.com,jack@mail.com
